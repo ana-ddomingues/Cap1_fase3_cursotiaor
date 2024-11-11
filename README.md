@@ -43,17 +43,17 @@ Armazena os dados dos sensores e conserva o histórico de irrigação para consu
    
      <img width="577" alt="image" src="https://github.com/user-attachments/assets/03046327-0be4-4906-a14a-b0304274a5c8">
       <p align="center">
-        <strong>Figura 2.1.1:</strong> Menu para consulta do dados da máquina
+        <strong>Figura 1:</strong> Menu para consulta do dados da máquina
       </p>
 
      <img width="329" alt="image" src="https://github.com/user-attachments/assets/8030162e-ea7a-4bab-a367-b25aedfe0dd5">
       <p align="center">
-        <strong>Figura 2.1.2:</strong> Consulta de dados
+        <strong>Figura 2:</strong> Consulta de dados
       </p>
 
      <img width="1048" alt="image" src="https://github.com/user-attachments/assets/c5d013eb-e5c9-41de-9751-b55c52d7a833">
      <p align="center">
-        <strong>Figura 2.1.3:</strong> Diagrama variação do nutriente pH no tempo
+        <strong>Figura 3:</strong> Diagrama variação do nutriente pH no tempo
       </p>
 
 
@@ -66,7 +66,7 @@ Armazena os dados dos sensores e conserva o histórico de irrigação para consu
 </p>
 
 <p align="center">
-  <strong>Figura 1:</strong> Estrutura do Circuito
+  <strong>Figura 4:</strong> Estrutura do Circuito
 </p>
 
 ## 🖥️ Simulação em Execução
@@ -76,7 +76,7 @@ Armazena os dados dos sensores e conserva o histórico de irrigação para consu
 </p>
 
 <p align="center">
-  <strong>Figura 2:</strong> Simulação em Execução com Leitura dos Sensores
+  <strong>Figura 5:</strong> Simulação em Execução com Leitura dos Sensores
 </p>
 
 ## 📚 Bibliotecas do Projeto
